@@ -6,3 +6,5 @@ In this project, we attempt to leverage the power of convolutional networks spec
 - [x] Training scripts [Click to view](https://github.com/JINO-ROHIT/Clinics_Project/tree/main/scripts)
 - [x] Output logs [Click to view](https://github.com/JINO-ROHIT/Clinics_Project/blob/main/artifacts/train.log.txt)
 - [x] Out of fold predictions [Click to view](https://github.com/JINO-ROHIT/Clinics_Project/blob/main/artifacts/oof_df.csv)
+
+![](artifacts/plot.png)
